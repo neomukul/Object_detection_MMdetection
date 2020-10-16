@@ -8,6 +8,8 @@
 * The training modeue has  
   - batch size 5, start lr 0.000625
   - train image size (1280, 720)  
+  
+* Out.json contain the COCO format input for the model.  
  
  In the Result Image we can see the prediction, the performance is calculated in mAP (mean Average Precision).
  For the detail indoemation on model and archetecture plese read attached document MMdet_ppr_submission.pdf 
